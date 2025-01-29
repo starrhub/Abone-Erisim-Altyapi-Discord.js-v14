@@ -1,0 +1,9 @@
+{
+    "token": "BOT_TOKEN",
+    "mainGuildId": "ANA_SUNUCU_ID",
+    "subGuildId": "ALTYAPI_SUNUCU_ID",
+    "subscriberRoleId": "ABONE_ROL_ID",
+    "accessRoleId": "ERİŞİMLİ_ROL_ID",
+    "noAccessRoleId": "ERİŞİMSİZ_ROL_ID",
+    "logChannelId": "LOG_KANAL_ID"
+}

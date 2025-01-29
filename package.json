@@ -1,0 +1,25 @@
+{
+  "name": "abone-erisim-altyapi",
+  "version": "1.0.0",
+  "description": "Abone Erişim Altyapısı - Discord.js v14",
+  "main": "starr.js",
+  "scripts": {
+    "start": "node starr.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "abone erişim altyapı"
+  ],
+  "author": "Starr",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.17.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/starrhub/Abone-Erisim-Altyapi-Discord.js-v14"
+  },
+  "engines": {
+    "node": ">=16.x"
+  }
+}
